@@ -1,1 +1,11 @@
 # MNP-2021-2022-Practice
+
+## Introduction
+
+Hi everyone! This is our practice repository for the 2021-2022 Software team. Here, you can practice some basic skills that you will use across various software and electrical projects. 
+
+## Exercises
+1. Edit this README file. Include a sentence at the bottom of the file with your name, major, and an unpopular food opinion you have. 
+2. Make a branch in this repository. Make sure to include your name in the branch name. In the branch, add a .txt file with a couple sentences about why you're interested in joining MNP and what you want to learn. Don't stress too much about this, just keep it short and simple. 
+3. Once you are done making edits to your branch, commit your changes and add a comment with your name and date. 
+4. After all of your changes are made, make a pull request to merge your branch to the main branch. 
