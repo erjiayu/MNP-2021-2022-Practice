@@ -13,3 +13,8 @@ Hi everyone! This is our practice repository for the 2021-2022 Software team. He
 
 ## Exercise 1 Responses
 1. Hi! I'm Tara and I'm a CS sophomore! 
+=======
+My name is Joe Ghezzi and I'm a freshman with an undecided major. My unpopular food opinion is that cereal most certainly is a type of soup.
+
+My name is Lucas Chen, a prospective CS major through LSA. An unpopular food opinion I have is that ramen is overrated and is just really salty.
+=======
