@@ -12,3 +12,4 @@ Hi everyone! This is our practice repository for the 2021-2022 Software team. He
 5. If interested, try these exercises using the command line. 
 
 ## Exercise 1 Responses
+1. Hi! I'm Tara and I'm a CS sophomore! 
