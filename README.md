@@ -12,3 +12,5 @@ Hi everyone! This is our practice repository for the 2021-2022 Software team. He
 5. If interested, try these exercises using the command line. 
 
 ## Exercise 1 Responses
+
+My name is Joe Ghezzi and I'm a freshman with an undecided major. My unpopular food opinion is that cereal most certainly is a type of soup.
